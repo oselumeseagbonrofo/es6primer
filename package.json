@@ -1,0 +1,15 @@
+{
+  "name": "es6primer",
+  "version": "0.0.1",
+  "description": "E6 primer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Oselumese Agbonrofo",
+  "license": "MIT",
+  "type": "module"
+}
